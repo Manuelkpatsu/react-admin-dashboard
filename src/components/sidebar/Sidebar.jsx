@@ -7,6 +7,7 @@ import {
     MailOutline, 
     PermIdentity, 
     Report, 
+    Storefront, 
     Timeline, 
     TrendingUp, 
     WorkOutline 
@@ -42,7 +43,7 @@ const Sidebar = () => {
                             Users
                         </li>
                         <li className="sidebarListItem">
-                            <Timeline className="sidebarIcon" />
+                            <Storefront className="sidebarIcon" />
                             Products
                         </li>
                         <li className="sidebarListItem">
