@@ -27,7 +27,7 @@ const User = () => {
                             className="userShowImg"
                         />
                         <div className="userShowTopTitle">
-                            <span className="userShowUserame">Anna Becker</span>
+                            <span className="userShowUsername">Anna Becker</span>
                             <span className="userShowUserTitle">Software Engineer</span>
                         </div>
                     </div>
